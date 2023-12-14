@@ -24,3 +24,14 @@ console.log(x * y); // Multiply
 console.log(x - y); // Subtract
 console.log(x / y); // Divide
 console.log(x % y); // Mod
+
+
+// Pre, Post Increment 
+
+// Pre
+console.log(++x);
+console.log(--y);
+
+// Post
+console.log(x++);
+console.log(y--);
