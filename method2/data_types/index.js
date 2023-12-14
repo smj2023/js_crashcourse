@@ -26,3 +26,20 @@ const res = undefined;
 
 // Null
 const data = null
+
+// Non Primitive Data types
+
+// Object
+const person = {
+    firstName: 'Max',
+    lastName: 'Newman',
+    age: 29
+}
+
+// dot notation to access properties of object
+console.log(person.firstName)
+
+// Arrays
+
+const oddNums = [1,3,5,7,9]
+console.log(oddNums[0]);
