@@ -47,3 +47,13 @@ console.log( x > y ); // x Greater than y ?
 console.log( x >= y ); // x Greater than equals to y ?
 console.log( x < y ); // x Less than y ?
 console.log( x <= y ); // x Less than equals to y ?
+
+
+// Logical Operators
+
+// Logical AND operator
+const isValidNum = x > 8 && 8 > y  
+
+
+// Logical OR operator
+const isValid = x > 8 || 8 > y  
