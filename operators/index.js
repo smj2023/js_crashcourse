@@ -35,3 +35,15 @@ console.log(--y);
 // Post
 console.log(x++);
 console.log(y--);
+
+
+
+// Comparision Operators
+
+console.log( x == y ); // Does not compare the datatype, just the values
+console.log( x === y ); // Compares Datatypes and values
+console.log( x != y ); // Not equals
+console.log( x > y ); // x Greater than y ?
+console.log( x >= y ); // x Greater than equals to y ?
+console.log( x < y ); // x Less than y ?
+console.log( x <= y ); // x Less than equals to y ?
